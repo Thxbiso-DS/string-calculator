@@ -1,0 +1,6 @@
+string_calculator.egg-info/
+build/
+.pytest_cache/
+string-env/
+__pycache__/
+**/__init__.py
